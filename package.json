@@ -1,12 +1,12 @@
 {
-    "name": "simple-vue-camera",
-    "version": "1.1.3",
+    "name": "simple-vue-camera-ninja",
+    "version": "1.0.0",
     "private": false,
     "main": "./dist/simple-vue-camera.umd.js",
     "types": "dist",
     "author": {
-        "name": "Bastiaan Jansen",
-        "email": "Bastiaanj7@outlook.com"
+        "name": "Luc Peters",
+        "email": "luc@secretninjas.nl"
     },
     "files": [
         "dist",
@@ -29,7 +29,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/BastiaanJansen/simple-vue-camera"
+        "url": "https://github.com/LucPeters1/simple-vue-camera"
     },
     "description": "A simple to use, but extensive, camera component for Vue 3 with Typescript support to create great camera experiences.",
     "dependencies": {},
